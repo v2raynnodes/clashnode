@@ -11,51 +11,6 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/personal/about/index.html</loc>
-    
-    <lastmod>2025-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/personal/bb/index.html</loc>
-    
-    <lastmod>2025-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/personal/love/index.html</loc>
-    
-    <lastmod>2025-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/site/census/index.html</loc>
-    
-    <lastmod>2025-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/site/time/index.html</loc>
-    
-    <lastmod>2025-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raynnodes.github.io/clashnode/social/fcircle/index.html</loc>
     
     <lastmod>2025-11-24</lastmod>
@@ -93,6 +48,51 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/life/music/index.html</loc>
+    
+    <lastmod>2025-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/personal/about/index.html</loc>
+    
+    <lastmod>2025-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/personal/bb/index.html</loc>
+    
+    <lastmod>2025-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/personal/love/index.html</loc>
+    
+    <lastmod>2025-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/site/census/index.html</loc>
+    
+    <lastmod>2025-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/site/time/index.html</loc>
     
     <lastmod>2025-11-24</lastmod>
     
