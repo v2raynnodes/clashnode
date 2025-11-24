@@ -53,10 +53,10 @@ copy:
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
   微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
-  QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
+  QQ: https://res.abeim.cn/api/qq/?qq= || icon-QQ || faa-tada
+  B站: https://space.bilibili.com/ || icon-bilibili || faa-tada
+  QQ邮箱: mailto:@qq.com || icon-youxiang || faa-tada
+  力扣: https://leetcode.cn/u/ || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -224,10 +224,10 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://tuchuang.voooe.cn/images/2023/01/04/2.webp
+    - img: https://tuchuang.voooe.cn/images/2023/01/04/1.webp
       link:
       text: 微信
-    - img: https://tuchuang.voooe.cn/images/2023/01/04/20f8e49805975b8f8.webp
+    - img: https://tuchuang.voooe.cn/images/2023/01/04/1.webp
       link:
       text: 支付宝
 
@@ -507,7 +507,7 @@ site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 theme_color:
-  enable: true
+  enable: false
   main: # "#49b1f5"
   paginator: # "#49b1f5"
   button_hover: # "#FF7242"
@@ -624,7 +624,7 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: true
+  enable: false
   field: site # site/post
   title-prefix-icon: '\f863' # '\f0c1'
   title-prefix-icon-color: "#F47466" # '#F47466'
@@ -651,7 +651,7 @@ blog_title_font:
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
-  enable: true
+  enable: false
   icon: '\f2dc' # the unicode value of Font Awesome icon, such as '\3423'
   icon-top: -10px
 
