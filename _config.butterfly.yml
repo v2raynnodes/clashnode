@@ -113,7 +113,7 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp
+  img: /assets/r1.jpg
   effect: false
 
 # Disable all banner image
