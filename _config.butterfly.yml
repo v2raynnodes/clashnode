@@ -702,10 +702,10 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: https://github.com/v2raynnodes/clashnode/
+      link: https://v2raynnodes.github.io/clashnode/
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">a</font></a>&nbsp;|&nbsp;<a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">gyhtgrdv</font></a><br>--- 备用域名 ---<br><a href="" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">rtgtgrrbgb</font></a><br><a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">rtgergbvd</font></a><br>--- 网站安卓APP ---<br>🍧<a href="" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5"></font></a>&nbsp;|&nbsp;<a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">gyhtgrdv</font></a><br>--- 备用域名 ---<br><a href="" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">rtgtgrrbgb</font></a><br><a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">rtgergbvd</font></a><br>--- 网站 ---<br>🍧<a href="" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
