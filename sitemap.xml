@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/life/movies/index.html</loc>
-    
-    <lastmod>2025-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raynnodes.github.io/clashnode/life/games/index.html</loc>
     
     <lastmod>2025-11-27</lastmod>
@@ -29,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/life/music/index.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/life/movies/index.html</loc>
     
     <lastmod>2025-11-27</lastmod>
     
@@ -39,6 +30,15 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/personal/about/index.html</loc>
+    
+    <lastmod>2025-11-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/life/music/index.html</loc>
     
     <lastmod>2025-11-27</lastmod>
     
@@ -110,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/box/animation/index.html</loc>
-    
-    <lastmod>2025-11-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raynnodes.github.io/clashnode/box/gallery/index.html</loc>
     
     <lastmod>2025-11-27</lastmod>
@@ -137,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251125d.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/box/animation/index.html</loc>
     
     <lastmod>2025-11-27</lastmod>
     
@@ -147,6 +138,15 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/posts/2013455d.html</loc>
+    
+    <lastmod>2025-11-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251125d.html</loc>
     
     <lastmod>2025-11-27</lastmod>
     
