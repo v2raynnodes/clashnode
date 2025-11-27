@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://v2raynnodes.github.io/clashnode/sitemap.xml
+Sitemap: https://v2raynnodes.github.io/clashnode/atom.xml
