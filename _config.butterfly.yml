@@ -915,6 +915,8 @@ inject:
     - <span id="fps"></span> # 帧率检测
     - <style id="defineBg"></style> # 自定义背景选项
     - <style id="menu_shadow"></style> # 菜单发光样式
+      # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/clashnode/css/butterfly/custom.css">
 
   bottom:
     - <script src="https://cdn.staticfile.org/jquery/3.6.3/jquery.min.js"></script> # jQuery
