@@ -448,7 +448,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text:
+  custom_text:ClashNode-免费精选节点最新公益免费
   copyright: false # Copyright of theme and framework
 
 # Analysis
@@ -671,7 +671,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to Fomalhaut🥝のTiny Home!🤣🤣🤣"
+    - "ClashNode-免费精选节点最新公益免费"
     - "Hope you have a nice day!🍭🍭🍭"
 
 # Loading Animation (加載動畫)
