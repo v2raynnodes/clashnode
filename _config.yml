@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ClashNode -免费精选节点最新公益免费
+title: ClashNode-免费精选节点最新公益免费
 subtitle: 免费精选节点最新公益免费
 description: '免费精选节点最新公益免费v2ray|clash节点订阅地址'
 keywords: 'V2rayNode,免费节点,V2ray,SSR,科学上网,翻墙,节点订阅,clashnode'
-author: Fomalhaut🥝
+author: ClashNode
 language: zh-CN
 timezone: ''
 
@@ -264,7 +264,7 @@ plugins:
 
 # 小冰分类磁贴
 magnet:
-  enable: true
+  enable: false
   priority: 2
   enable_page: /
   type: categories
