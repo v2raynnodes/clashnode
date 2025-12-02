@@ -2,7 +2,7 @@
 title: 更新时间 2025-11-30 2025年12月01日免费精选节点最新公益免费v2ray|clash节点订阅地址、可看1080P/4K视频小火箭订阅链接 手机电脑 科学上网|梯子|翻墙|代理|VPN|外网免费节点每日更新 
 date: 2025-11-30
 mathjax: true
-abbrlink: 20251230d
+abbrlink: 20251201d
 sticky: 2
 swiper_index: 2
 keywords: 
