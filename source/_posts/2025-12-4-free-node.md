@@ -3,8 +3,8 @@ title: 更新时间 2025-12-4 2025年12月04日免费精选节点最新公益免
 date: 2025-12-4
 mathjax: true
 abbrlink: 20251204d
-sticky: 2
-swiper_index: 2
+sticky: 
+swiper_index: 
 keywords: 
   - v2rayShare
   - 免费节点
