@@ -288,11 +288,11 @@ magnet:
    # - name: 演示
    #   display_name: 小Fの案例演示笔记
    #   icon: 🍥
- # color_setting:
-  #  text_color: black # 文字默认颜色
-   # text_hover_color: white # 文字鼠标悬浮颜色
-   # background_color: "#e9e9e9" # 文字背景默认颜色
-   # background_hover_color: var(--text-bg-hover) # 文字背景悬浮颜色
+  color_setting:
+    text_color: black # 文字默认颜色
+    text_hover_color: white # 文字鼠标悬浮颜色
+    background_color: "#e9e9e9" # 文字背景默认颜色
+    background_hover_color: var(--text-bg-hover) # 文字背景悬浮颜色
   layout:
     type: id
     name: recent-posts
