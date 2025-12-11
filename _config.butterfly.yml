@@ -4,7 +4,7 @@
 
 menu:
   首页: / || icon-home || faa-tada
-    文章 || icon--article || faa-tada || hide:
+  文章 || icon--article || faa-tada || hide:
     归档: /archives/ || icon-guidang1 || faa-tada
     标签: /tags/ || icon-sekuaibiaoqian || faa-tada
     分类: /categories/ || icon-fenlei || faa-tada
@@ -27,7 +27,7 @@ menu:
   个人 || icon-maoliang || faa-tada || hide:
     唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
     恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
-   关于: /personal/about/ || icon-paperplane || faa-tada
+    关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -52,11 +52,11 @@ copy:
 #   icon: link || the description
 social:
   # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
-  微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq= || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/ || icon-bilibili || faa-tada
-  QQ邮箱: mailto:@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/ || icon-leetcode || faa-tada
+ # 微信: /assets/QRCode.jpg || icon-weixin || faa-tada
+  #QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
+  #B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
+  #QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
+  #力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
   # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
   # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
@@ -113,7 +113,7 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: /assets/r1.jpg
+  img: https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp
   effect: false
 
 # Disable all banner image
@@ -448,7 +448,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text:  ClashNode-免费精选节点最新公益免费
+  custom_text:
   copyright: false # Copyright of theme and framework
 
 # Analysis
@@ -507,7 +507,7 @@ site_verification:
 # Notice: color value must in double quotes like "#000" or may cause error!
 
 theme_color:
-  enable: false
+  enable: true
   main: # "#49b1f5"
   paginator: # "#49b1f5"
   button_hover: # "#FF7242"
@@ -558,7 +558,7 @@ footer_bg: false
 rightside-bottom:
 
 # Enter transitions (開啓網頁進入效果)
-enter_transitions: false
+enter_transitions: true
 
 # Background effects (背景特效)
 # --------------------------------------
@@ -624,7 +624,7 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: false
+  enable: true
   field: site # site/post
   title-prefix-icon: '\f863' # '\f0c1'
   title-prefix-icon-color: "#F47466" # '#F47466'
@@ -651,7 +651,7 @@ blog_title_font:
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
-  enable: false
+  enable: true
   icon: '\f2dc' # the unicode value of Font Awesome icon, such as '\3423'
   icon-top: -10px
 
@@ -671,13 +671,13 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "ClashNode-免费精选节点最新公益免费"
+    - "Welcome to Tiny Home!🤣🤣🤣"
     - "Hope you have a nice day!🍭🍭🍭"
 
 # Loading Animation (加載動畫)
 # preloader: false
 preloader:
-  enable: false # true|false
+  enable: true # true|false
   load_color: # '#37474f'
   load_style: heo # default|gear|ironheart|scarecrow|triangles|wizard|image|spincat|heo(新增)
   load_image: # url
@@ -702,10 +702,10 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: https://v2raynnodes.github.io/clashnode/
+      link: 
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5"></font></a>&nbsp;|&nbsp;<a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">gyhtgrdv</font></a><br>--- 备用域名 ---<br><a href="" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">rtgtgrrbgb</font></a><br><a href="https://v2raynnodes.github.io/clashnode/" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">rtgergbvd</font></a><br>--- 网站 ---<br>🍧<a href="" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">啊</font></a>&nbsp;|&nbsp;<a href="" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">啊</font></a><br>--- 备用域名 ---<br><a href="" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">啊</font></a><br><a href="" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">啊</font></a><br>--- 网站安卓 ---<br>🍧<a href="" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
@@ -864,7 +864,7 @@ snackbar:
 
 # https://instant.page/
 # prefetch (預加載)
-instantpage: false
+instantpage: true
 
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
@@ -875,10 +875,10 @@ pangu:
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
-  enable: false
+  enable: true
   field: site # site/post
   placeholder: # /assets/load.gif
-  blur: false
+  blur: true
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
@@ -915,8 +915,6 @@ inject:
     - <span id="fps"></span> # 帧率检测
     - <style id="defineBg"></style> # 自定义背景选项
     - <style id="menu_shadow"></style> # 菜单发光样式
-      # - <link rel="stylesheet" href="/xxx.css">
-    - <link rel="stylesheet" href="/clashnode/css/butterfly/custom.css">
 
   bottom:
     - <script src="https://cdn.staticfile.org/jquery/3.6.3/jquery.min.js"></script> # jQuery
@@ -1011,7 +1009,7 @@ CDN:
 # wowjs动画特效
 # see https://www.npmjs.com/package/hexo-butterfly-wowjs
 wowjs:
-  enable: false #控制动画开关。true是打开，false是关闭
+  enable: true #控制动画开关。true是打开，false是关闭
   priority: 10 #过滤器优先级
   mobile: false #移动端是否启用，默认移动端禁用
   animateitem:
