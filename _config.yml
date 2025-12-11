@@ -263,13 +263,13 @@ plugins:
   - hexo-algoliasearch
 
 # 小冰分类磁贴
-#magnet:
- # enable: false
- # priority: 2
- # enable_page: /
- # type: categories
- # devide: 3
- # display:
+magnet:
+  enable: false
+  priority: 2
+  enable_page: /
+  type: categories
+  devide: 3
+  display:
   #  - name: 算法
    #   display_name: 小Fの算法学习笔记
     #  icon: 🍡
@@ -293,9 +293,9 @@ plugins:
    # text_hover_color: white # 文字鼠标悬浮颜色
    # background_color: "#e9e9e9" # 文字背景默认颜色
    # background_hover_color: var(--text-bg-hover) # 文字背景悬浮颜色
- # layout:
-  #  type: id
-  #  name: recent-posts
-  #  index: 0
- # temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
- # plus_style: ""
+  layout:
+    type: id
+    name: recent-posts
+    index: 0
+  temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
+  plus_style: ""
