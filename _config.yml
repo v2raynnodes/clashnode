@@ -264,7 +264,7 @@ plugins:
 
 # 小冰分类磁贴
 magnet:
-  enable: false
+  enable: true
   priority: 2
   enable_page: /
   type: categories
