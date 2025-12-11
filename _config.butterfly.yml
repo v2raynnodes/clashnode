@@ -448,7 +448,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text:
+  custom_text:  ClashNode-免费精选节点最新公益免费v2ray|clash节点
   copyright: false # Copyright of theme and framework
 
 # Analysis
