@@ -4,10 +4,10 @@
 
 menu:
   首页: / || icon-home || faa-tada
-  文章 || icon--article || faa-tada || hide:
-  归档: /archives/ || icon-guidang1 || faa-tada
-  标签: /tags/ || icon-sekuaibiaoqian || faa-tada
-  分类: /categories/ || icon-fenlei || faa-tada
+    文章 || icon--article || faa-tada || hide:
+    归档: /archives/ || icon-guidang1 || faa-tada
+    标签: /tags/ || icon-sekuaibiaoqian || faa-tada
+    分类: /categories/ || icon-fenlei || faa-tada
   #休闲 || icon-pinweishenghuo || faa-tada || hide:
    # 八音盒: /life/music/ ||icon-yinle || faa-tada
     #影院: /life/movies/ ||icon-dianying1 || faa-tada
@@ -27,7 +27,7 @@ menu:
   #个人 || icon-maoliang || faa-tada || hide:
    # 唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
     #恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
-  关于: /personal/about/ || icon-paperplane || faa-tada
+   #关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
 # --------------------------------------
