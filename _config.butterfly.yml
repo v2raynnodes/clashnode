@@ -904,7 +904,9 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="stylesheet" href="/clashnode/css/custom.css" media="defer" onload="this.media='all'"> # 常规css
+   # - <link rel="stylesheet" href="/clashnode/css/custom.css" media="defer" onload="this.media='all'"> # 常规css
+   
+    - <link rel="stylesheet" href="/clashnode/css/butterfly/custom.css">
     - <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css"> # 引入组件库(f12)
     # 综合美化模块样式引入
     - <style id="themeColor"></style> # 主题色
