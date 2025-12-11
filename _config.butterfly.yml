@@ -8,26 +8,26 @@ menu:
     归档: /archives/ || icon-guidang1 || faa-tada
     标签: /tags/ || icon-sekuaibiaoqian || faa-tada
     分类: /categories/ || icon-fenlei || faa-tada
-  #休闲 || icon-pinweishenghuo || faa-tada || hide:
-   # 八音盒: /life/music/ ||icon-yinle || faa-tada
-    #影院: /life/movies/ ||icon-dianying1 || faa-tada
-    #游戏: /life/games/ || icon-youxishoubing || faa-tada
-  #八宝箱 || icon-xiangzi || faa-tada || hide:
-   # 画廊: /box/gallery/ ||icon-tubiaozhizuomoban || faa-tada
-    #动画: /box/animation/ || icon-nvwumao || faa-tada
-    #网址导航: /box/nav/ || icon-zhifengche || faa-tada
- # 社交 || icon-shejiaoxinxi || faa-tada || hide:
-  #  朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
-   # 留言板: /comments/ || icon-liuyan || faa-tada
-    #友人帐: /social/link/ || icon-lianjie || faa-tada
- # 网站 || icon-wangye || faa-tada || hide:
-  #  网站统计: /site/census/ || icon--tongjibiao || faa-tada
-   # 文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
-    #旧时光: /site/time/ || icon-xianxingshalou || faa-tada
-  #个人 || icon-maoliang || faa-tada || hide:
-   # 唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
-    #恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
-   #关于: /personal/about/ || icon-paperplane || faa-tada
+  休闲 || icon-pinweishenghuo || faa-tada || hide:
+    八音盒: /life/music/ ||icon-yinle || faa-tada
+    影院: /life/movies/ ||icon-dianying1 || faa-tada
+    游戏: /life/games/ || icon-youxishoubing || faa-tada
+  八宝箱 || icon-xiangzi || faa-tada || hide:
+    画廊: /box/gallery/ ||icon-tubiaozhizuomoban || faa-tada
+    动画: /box/animation/ || icon-nvwumao || faa-tada
+    网址导航: /box/nav/ || icon-zhifengche || faa-tada
+  社交 || icon-shejiaoxinxi || faa-tada || hide:
+    朋友圈: /social/fcircle/ || icon-pengyouquan || faa-tada
+    留言板: /comments/ || icon-liuyan || faa-tada
+    友人帐: /social/link/ || icon-lianjie || faa-tada
+  网站 || icon-wangye || faa-tada || hide:
+    网站统计: /site/census/ || icon--tongjibiao || faa-tada
+    文章统计: /site/echarts/ || icon-shujutongji1 || faa-tada
+    旧时光: /site/time/ || icon-xianxingshalou || faa-tada
+  个人 || icon-maoliang || faa-tada || hide:
+    唠叨: /personal/bb/ || icon-qunliaotian || faa-tada
+    恋爱小屋: /personal/love/ || icon-love-sign || faa-tada
+   关于: /personal/about/ || icon-paperplane || faa-tada
 
 # Code Blocks (代碼相關)
 # --------------------------------------
