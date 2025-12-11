@@ -702,7 +702,7 @@ aside:
       enable: true
       icon: # fab fa-github
       text: 前往小窝
-      link: 
+      link: https://v2raynnodes.github.io/clashnode/
   card_announcement:
     enable: true
     content: <center><b>--- 主域名 ---<br><a href="" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">啊</font></a>&nbsp;|&nbsp;<a href="" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">啊</font></a><br>--- 备用域名 ---<br><a href="" title="此线路部署于Netlify" class="anno_content"><font color="#5ea6e5">啊</font></a><br><a href="" title="此线路部署于Cloudflare" class="anno_content"><font color="#5ea6e5">啊</font></a><br>--- 网站安卓 ---<br>🍧<a href="" title="点这里可以下载网站的安卓APP" class="anno_content"><font color="#5ea6e5">点此下载</font></a>🍧</b></center>
