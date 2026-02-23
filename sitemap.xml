@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/life/movies/index.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/life/games/index.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/life/games/index.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/life/movies/index.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -129,6 +129,69 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/box/nav/index.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/a801f2a4.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/95fb8f1b.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/10be149f.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/2d446920.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/6b67893c.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/ebfb72c0.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/64247d4.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -272,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/e77a84be.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/da80f901.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -281,7 +344,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/da80f901.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/e77a84be.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -308,7 +371,61 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/a6643822.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251205d.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251206d.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251207.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251208.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/19e68299.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/5f68277.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/4bdd0d36.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -326,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/4bdbd5e4.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/a6643822.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -336,6 +453,15 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/posts/a667544b.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/4bdbd5e4.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -407,7 +533,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/6587d687.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/883d8ffa.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -416,7 +542,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/883d8ffa.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/6587d687.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -533,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/a801f2a4.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/2013455d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -542,7 +668,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/95fb8f1b.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251125d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -551,7 +677,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/10be149f.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251126d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -560,7 +686,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/2d446920.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251127d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -569,7 +695,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/6b67893c.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251128d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -578,7 +704,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/ebfb72c0.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251129d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -587,7 +713,16 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/64247d4.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251130d.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/20251201d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -704,7 +839,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/facad42e.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/d50cc62b.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -713,7 +848,7 @@
   </url>
   
   <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/d50cc62b.html</loc>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/facad42e.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -740,6 +875,15 @@
   </url>
   
   <url>
+    <loc>https://v2raynnodes.github.io/clashnode/posts/26edee1d.html</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raynnodes.github.io/clashnode/posts/92bfc18.html</loc>
     
     <lastmod>2026-02-23</lastmod>
@@ -750,15 +894,6 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/posts/a546f024.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/26edee1d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -813,141 +948,6 @@
   
   <url>
     <loc>https://v2raynnodes.github.io/clashnode/posts/20251204d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251205d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251206d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251207.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251208.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/5f68277.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/19e68299.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/4bdd0d36.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/2013455d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251125d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251126d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251127d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251128d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251129d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251130d.html</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raynnodes.github.io/clashnode/posts/20251201d.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
