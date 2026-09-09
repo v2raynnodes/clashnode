@@ -46,6 +46,8 @@ categories:
 
 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
+<div><h2 class="heading-element" dir="auto" tabindex="-1"><a href="http://shop.tgaaaa.co" rel="nofollow"><span style="color: #ff0000;">海外社交账号商店&nbsp;</span></a><span style="color: #ffff00;"><span style="color: #800000;">---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售<a href="http://shop.tgaaaa.co" rel="nofollow"><span style="color: #ff0000;">点击进入购买&nbsp;</span></h2>
+
 #### 因很多人使用以及提供方流量限制，无法保障长时间的稳定性和可用性。
 
 #### 如果想获得更好的使用体验，建议购买本站推荐的付费机场节点，更稳更快更舒服！
